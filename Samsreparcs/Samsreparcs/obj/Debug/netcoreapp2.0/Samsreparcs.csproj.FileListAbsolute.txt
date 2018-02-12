@@ -1,0 +1,11 @@
+C:\Projects\samsreparcs\Samsreparcs\Samsreparcs\bin\Debug\netcoreapp2.0\Samsreparcs.deps.json
+C:\Projects\samsreparcs\Samsreparcs\Samsreparcs\bin\Debug\netcoreapp2.0\Samsreparcs.runtimeconfig.json
+C:\Projects\samsreparcs\Samsreparcs\Samsreparcs\bin\Debug\netcoreapp2.0\Samsreparcs.runtimeconfig.dev.json
+C:\Projects\samsreparcs\Samsreparcs\Samsreparcs\bin\Debug\netcoreapp2.0\Samsreparcs.dll
+C:\Projects\samsreparcs\Samsreparcs\Samsreparcs\bin\Debug\netcoreapp2.0\Samsreparcs.pdb
+C:\Projects\samsreparcs\Samsreparcs\Samsreparcs\obj\Debug\netcoreapp2.0\Samsreparcs.csprojResolveAssemblyReference.cache
+C:\Projects\samsreparcs\Samsreparcs\Samsreparcs\obj\Debug\netcoreapp2.0\Samsreparcs.csproj.CoreCompileInputs.cache
+C:\Projects\samsreparcs\Samsreparcs\Samsreparcs\obj\Debug\netcoreapp2.0\Samsreparcs.AssemblyInfoInputs.cache
+C:\Projects\samsreparcs\Samsreparcs\Samsreparcs\obj\Debug\netcoreapp2.0\Samsreparcs.AssemblyInfo.cs
+C:\Projects\samsreparcs\Samsreparcs\Samsreparcs\obj\Debug\netcoreapp2.0\Samsreparcs.dll
+C:\Projects\samsreparcs\Samsreparcs\Samsreparcs\obj\Debug\netcoreapp2.0\Samsreparcs.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Samsreparcs", "Samsreparcs\Samsreparcs.csproj", "{7389BFED-AE17-4761-A6C1-CDB8FA3A0D16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Samsreparcs.Tests", "Samsreparcs.Tests\Samsreparcs.Tests.csproj", "{1FAC59D0-A342-4AAD-8E25-93B0225C3340}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7389BFED-AE17-4761-A6C1-CDB8FA3A0D16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7389BFED-AE17-4761-A6C1-CDB8FA3A0D16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7389BFED-AE17-4761-A6C1-CDB8FA3A0D16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7389BFED-AE17-4761-A6C1-CDB8FA3A0D16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FAC59D0-A342-4AAD-8E25-93B0225C3340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FAC59D0-A342-4AAD-8E25-93B0225C3340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FAC59D0-A342-4AAD-8E25-93B0225C3340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FAC59D0-A342-4AAD-8E25-93B0225C3340}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1108D4E-FF08-461E-9E03-8AB23ABC3194}
+	EndGlobalSection
+EndGlobal
